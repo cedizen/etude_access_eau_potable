@@ -1,24 +1,32 @@
-# Projet: Etude sur l'accès à l'eau potable
+# Projet : Étude sur l’accès à l’eau potable
 
 ## Objectifs
-- Créer une série de tableaux de bords accessibles pour identifier le ou les pays qui rencontrent des difficultés d'accès à l'eau avec un potentiel de développement suffisant pour apporter une certaine expertise
-- Rédiger un document qui synthétise différentes indicateurs et les différentes visualisations choisies en fonction de l'effet recherché
 
-## Outil utilisé: Tableau Public
+- Créer une série de tableaux de bord Tableau Public pour identifier les pays confrontés à des difficultés d’accès à l’eau potable, tout en ayant un potentiel de développement suffisant pour une collaboration durable.  
+- Rédiger une synthèse présentant les indicateurs sélectionnés et les choix de visualisations selon l’effet recherché.
 
-## Datasets collectés
-- 'BasicAndSafelyManagedDrinkingWater.csv': Taux d'infrastructure d'accès à l'eau potable pour chaque pays réparti entre les infrastructures de base et de qualité supérieure
-- 'MortalityRateAttributedToWater.csv': taux de mortalité de la population (totale, masculine et féminine) lié à des infrastructures d'accès à l'eau potable insuffisant
-- 'PoliticalStability.csv': Evolution de l'indice de stabilité politique par pays entre 2000 et 2018
-- 'Population.csv': Evolution de la population totale, masculine et féminine entre 2000 et 2018
-- 'RegionCountry.csv': Association du pays et de la région du monde 
+## Outil utilisé
 
-## Résultats
-- Deux régions du monde à la base: Afrique et l’Asie du Sud-Est connus pour ses problèmes
-d’accès à l’eau après exclusion des zones instables
-- Exclusion de l’Afrique: Fort taux de mortalité pour des équipements d’accès à l’eau variables
-- Asie du Sud-Est: meilleur candidat car plus faible taux de mortalité et classé juste derrière
-l’Afrique de manière générale
-- Le Bhutan est le pays qui a retenu mon attention: faible taux de mortalité, pays stable
-politiquement et des infrastructures de qualité déjà existants – très bon pays pilote pour une
-collaboration à long-terme
+- **Tableau Public**
+
+## Datasets utilisés
+
+- `BasicAndSafelyManagedDrinkingWater.csv` : taux d’accès à l’eau potable (infrastructures de base et de qualité supérieure) par pays.  
+- `MortalityRateAttributedToWater.csv` : taux de mortalité lié à un accès insuffisant à l’eau potable (population totale, hommes, femmes).  
+- `PoliticalStability.csv` : évolution de l’indice de stabilité politique par pays (2000–2018).  
+- `Population.csv` : évolution de la population totale, masculine et féminine (2000–2018).  
+- `RegionCountry.csv` : association pays / région du monde.
+
+## Principales conclusions
+
+- Deux régions se distinguent au départ : **l’Afrique** et **l’Asie du Sud-Est** (connues pour des problèmes d’accès à l’eau, avec exclusion des zones instables).  
+- **L’Afrique** est exclue : forte mortalité malgré des niveaux d’infrastructures d’accès à l’eau variables et peu stables.  
+- **L’Asie du Sud-Est** apparaît comme le meilleur candidat : mortalité plus faible et niveau d’accès généralement intermédiaire, juste derrière l’Afrique.  
+- **Le Bhoutan** se dégage comme pays pilote idéal :  
+  - faible taux de mortalité lié à l’eau,  
+  - stabilité politique,  
+  - infrastructures d’accès à l’eau déjà existantes et de qualité correcte.  
+
+## Conclusion
+
+Le projet identifie le **Bhoutan** dans la région **Asie du Sud-Est** comme cible prioritaire pour une collaboration à long terme sur l’amélioration de l’accès à l’eau potable, combinant besoin réel, stabilité politique et potentiel de partenariat.
