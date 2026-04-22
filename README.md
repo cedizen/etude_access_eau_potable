@@ -1,5 +1,7 @@
 # Projet : Étude sur l’accès à l’eau potable
 
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql) ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau) ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Objectifs
 
 - Créer une série de tableaux de bord Tableau Public pour identifier les pays confrontés à des difficultés d’accès à l’eau potable, tout en ayant un potentiel de développement suffisant pour une collaboration durable.  
